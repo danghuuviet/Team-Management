@@ -1,0 +1,84 @@
+﻿html,
+body,
+.intro {
+    height: 100%;
+}
+
+table td,
+table th {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.table {
+    border-spacing: 0 20px;
+}
+
+.card {
+    border-radius: .5rem;
+}
+
+.round-image {
+    border-radius: 50%;
+}
+
+.employee-name {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.employee-salary {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.centered-cell {
+    height: 80px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.centered-subdiv {
+    height: 25px;
+    vertical-align: middle;
+}
+
+.part-time {
+    color: white;
+    background-color: darkred !important;
+}
+
+.full-time {
+    color: white;
+    background-color: darkblue !important;
+}
+
+.casual {
+    color: white;
+    background-color: darkgreen !important;
+}
+
+.freelance {
+    color: white;
+    background-color: darkmagenta !important;
+}
+
+.filter-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1;
+    transition: background-color 0.2s ease;
+}
+
+.badge-pill {
+    padding: 0.4em 0.8em;
+    font-size: 0.9em;
+    color: #fff;
+    border-radius: 50px;
+}

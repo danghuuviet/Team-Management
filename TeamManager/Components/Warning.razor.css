@@ -1,0 +1,12 @@
+﻿.modal-content {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.modal-body {
+    color: white;
+}
+
+.close-button {
+    margin-top: -35px;
+}

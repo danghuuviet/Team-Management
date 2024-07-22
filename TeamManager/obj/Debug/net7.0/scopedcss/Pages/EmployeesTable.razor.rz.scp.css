@@ -1,0 +1,84 @@
+html[b-6gr3akzbu5],
+body[b-6gr3akzbu5],
+.intro[b-6gr3akzbu5] {
+    height: 100%;
+}
+
+table td[b-6gr3akzbu5],
+table th[b-6gr3akzbu5] {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.table[b-6gr3akzbu5] {
+    border-spacing: 0 20px;
+}
+
+.card[b-6gr3akzbu5] {
+    border-radius: .5rem;
+}
+
+.round-image[b-6gr3akzbu5] {
+    border-radius: 50%;
+}
+
+.employee-name[b-6gr3akzbu5] {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.employee-salary[b-6gr3akzbu5] {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.centered-cell[b-6gr3akzbu5] {
+    height: 80px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.centered-subdiv[b-6gr3akzbu5] {
+    height: 25px;
+    vertical-align: middle;
+}
+
+.part-time[b-6gr3akzbu5] {
+    color: white;
+    background-color: darkred !important;
+}
+
+.full-time[b-6gr3akzbu5] {
+    color: white;
+    background-color: darkblue !important;
+}
+
+.casual[b-6gr3akzbu5] {
+    color: white;
+    background-color: darkgreen !important;
+}
+
+.freelance[b-6gr3akzbu5] {
+    color: white;
+    background-color: darkmagenta !important;
+}
+
+.filter-input:focus[b-6gr3akzbu5] {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.table tbody tr:hover[b-6gr3akzbu5] {
+    background-color: #f1f1f1;
+    transition: background-color 0.2s ease;
+}
+
+.badge-pill[b-6gr3akzbu5] {
+    padding: 0.4em 0.8em;
+    font-size: 0.9em;
+    color: #fff;
+    border-radius: 50px;
+}

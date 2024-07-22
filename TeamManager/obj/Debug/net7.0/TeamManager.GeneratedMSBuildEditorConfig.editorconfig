@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TeamManager
+build_property.RootNamespace = TeamManager
+build_property.ProjectDir = C:\Users\Admin\source\repos\TeamManager\TeamManager\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\TeamManager\TeamManager
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Components/DeleteConfirmationModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZWxldGVDb25maXJtYXRpb25Nb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Components/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWRpcmVjdFRvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Components/TableButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUYWJsZUJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Pages/AddEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Pages/EmployeeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-sv7cciesyz
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Components/Warning.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXYXJuaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-z62dze4i8o
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Pages/EmployeesTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzVGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6gr3akzbu5
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0djttghhu1
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6kt2blky5n
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Areas/Identity/Pages/_IdentityLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX0lkZW50aXR5TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/TeamManager/TeamManager/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
