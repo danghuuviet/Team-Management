@@ -1,1 +1,5 @@
-The Employee Management System is a comprehensive application developed to manage employee data and streamline various HR processes. This project was created to enhance programming skills and gain practical experience in software development.
+A simple project for  my self-education. This project is running on .NET 7 and uses the following technologies:
+- Blazor Server
+- Entity Framework Core
+- ASP.NET Core Identity
+
